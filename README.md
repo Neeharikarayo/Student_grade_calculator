@@ -9,5 +9,7 @@ I build these project to practice basic Python concepts like:
   - If-else conditions
   - User Input
   - Basic Calculations
-This Project help me to understand how to sturucture a simple Python Program and apply logical conditions.
+
+    
+This Project helped me  understand how to sturucture a simple Python Program and apply logical conditions.
    
