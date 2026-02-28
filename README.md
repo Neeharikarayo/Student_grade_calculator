@@ -1,6 +1,8 @@
-## Student Grade Calculator
+# Student Grade Calculator
 
 This is my first Python Mini Project. 
+
+
 In this project, I created a program that takes marks for multiple subjects from the user, calculates the Total and Average,and then assigns a grade based on the average.
 
 I build these project to practice basic Python concepts like:
